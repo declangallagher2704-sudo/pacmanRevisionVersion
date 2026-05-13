@@ -1,0 +1,30 @@
+﻿MATH
+What is 12 + 3 x 15?,57,225,122
+What is 30% of 15000?,4500,11500,450
+What is 3 quaters of 140?,105,120,115
+Solve x when 4x - 13 = 15,7,5,4
+What is 12 squared?,144,228,134
+What is the perimeter of a rectangle with sides 5 cm and 3 cm?,16,10,6
+What is the missing angle in a triangle with angles 35 and 68?,77,67,57
+What is the next prime number after 31?,37,34,36
+What is 18% of 150?,27,36,54
+ENGLISH
+Which word is a noun?,Happiness,Run,Larp
+Which is a synonym of “big”?,Large,small,orange
+Which is an adjective?,Green,Japan,Wall
+What is personification?,Human traits to non‑human,Repeated consonants,Word to imitate a sound effect
+What is a rhetorical question?,Not meant to be answered,Word to imitate a sound effect,Repeated consonants
+What is alliteration?,Repeated consonants,Human traits to non‑human,Word to imitate a sound effect
+Which is an example of oxymoron?,Jumbo shrimp,Bright Smile,Dark Room
+What is onomatopoeia?,Words to replicate sounds,Repeated consonants,Reversing normal word order
+What is a syntactic inversion?,Reversing normal word order,Reversing the letters in a word,Reversing the meaning of a sentence
+HISTORY
+What year did WWII begin?,1939,1913,1945
+Who was the first US President?,George Washington,Joe Biden,Abe Lincon
+Which empire built the Colosseum?,Roman Empire,Aztec Empire,Ottoman Empire
+What was the name of the ship that sank in 1912?,Titanic,Queen Anne’s Revenge,USS Liberty
+Who led the Soviet Union during WWII?,Joseph Stalin,Ivan the Terrible,Catherine the Great
+Whose assassination triggered WWI?,Franz Ferdinand,Mahatma Gandhi,John F. Kennedy
+Which 1935 law stripped German Jews of citizenship?,Nuremberg Laws,Enabling Act,Gestapo Laws
+Which Cold War crisis occurred in 1962?,Cuban Missile Crisis,Hungarian Uprising,Founding of Israel
+Which 1947 policy aimed to limit soviet expansion?,The Truman Doctrine,The Eisenhower Doctrine,The Reagan Doctrine

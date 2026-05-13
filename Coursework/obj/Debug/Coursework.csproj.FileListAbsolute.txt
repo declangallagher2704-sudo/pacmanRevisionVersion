@@ -1,0 +1,79 @@
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.LoginMenu.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.MainMenu.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.gameControl.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.Leaderboard.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.gameScreen.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.GameOver.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework\Coursework\obj\Debug\Coursework.SettingsMenu.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\bin\Debug\Coursework.exe
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\bin\Debug\Coursework.pdb
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.GameOver.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.gameScreen.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.gameControl.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.Leaderboard.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.LoginMenu.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.MainMenu.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.SettingsMenu.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.exe
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.pdb
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Interop.WMPLib.dll
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.csproj.ResolveComReference.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Coursework - Copy\Coursework\obj\Debug\Coursework.controlsScreen.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Interop.WMPLib.dll
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.csproj.ResolveComReference.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.controlsScreen.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.GameOver.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.gameScreen.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.gameControl.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.Leaderboard.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.LoginMenu.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.MainMenu.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.SettingsMenu.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\bin\Debug\Interop.WMPLib.dll
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework\Coursework\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Interop.WMPLib.dll
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.csproj.ResolveComReference.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.controlsScreen.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.GameOver.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.gameScreen.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.gameControl.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.Leaderboard.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.LoginMenu.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.MainMenu.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.SettingsMenu.resources
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.exe
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\obj\Debug\Coursework.pdb
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\bin\Debug\Coursework.exe
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\bin\Debug\Coursework.pdb
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\bin\Debug\Interop.WMPLib.dll
+C:\Users\dgallagher042\OneDrive - C2k\Year 14\Computer Science\CW code and files\Current Coursework - Copy\Coursework\bin\Debug\AxInterop.WMPLib.dll
